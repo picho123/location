@@ -1,4 +1,4 @@
-# Locator v1.0
+# Picho v1.0
 ## Author: github.com/thelinuxchoice/locator
 ## IG: instagram.com/thelinuxchoice
 ### Don't copy this code without give me the credits, nerd! 
